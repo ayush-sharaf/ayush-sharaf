@@ -1,4 +1,4 @@
-[![MasterHead](https://nazrulkabir.com/assests/images/FB-Meta-Image.jpg)](https://ayushsharaf.vercel.app/)
+[![MasterHead](img.png)](https://ayushsharaf.vercel.app/)
 # 💫 About Me:
 
 🖥️ I'm currently working on: Skillrex, an online LMS platform designed to revolutionize learning.<br><br>🤝 I'm looking to collaborate on: React and Next.js projects—let's build something amazing together!<br><br>🆘 I'm looking for help with: Finding leads for freelance work and expanding my web development projects.<br><br>🌱 I'm currently learning: Spring—dipping my toes into the backend waters.<br><br>💬 Ask me about: Web development, Core Java, DSA—I've got plenty to share!<br><br>⚡ Fun fact: I once tried debugging with coffee instead of code—let’s just say the code didn’t run, but I sure did!
